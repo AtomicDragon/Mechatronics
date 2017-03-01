@@ -13,3 +13,6 @@ Arduino was tasked to count in binary and then output it to the four different o
 
 ALEX_STEIN_PNEUMATIC_ONE_BALL_STATE:
 Tasked with programming an arduino connect to a complecated hydraulic machine to move two ball around in a circuit. Arduino used sensors to sense when the ball got into a certain location. Had to keep two balls from hitting each other and without any delay. Used state machine concept to achive goal. 
+
+MILESTONE 2-Final:
+Actual codeing for robot in mechatronics challenge. Each milestone programming was used to achive the goal stated in the rubric (See ENGR 450 Milestone Rubric.docx). Used different ardino programs to control movement, sorting, and gates to release the balls. The main code is located in Milestone_Final.ino.
